@@ -31,9 +31,5 @@ These instructions will get you a copy of the project up and running on your loc
 
 You can use [myslideshow] shortode in pages,posts,products and anywhere. just you need type [myslideshow]!
 
-ubmitting pull requests to us.
-
-
 ## Author  👤
-
--   **Reza Kabiri**
+**Reza Kabiri**
