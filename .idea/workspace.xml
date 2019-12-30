@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52e7e72c-0943-40bb-b7f0-bb486593cacc" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/wpcs/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="travis-slider" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/Downloads/Compressed/cmb2/example-functions.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PHPCodeSnifferBlackList">
+    <option name="filePaths">
+      <list>
+        <option value="$PROJECT_DIR$/public/class-travis-slider-public.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../.." />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1VQnlRCFVyacK7Svzdk8IrPmmxi" />
+  <component name="PropertiesComponent">
+    <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dumpAutoload F:/Program Files/xampp/htdocs/wordpress/wp-content/plugins/travis-slider/composer.json" value="--no-interaction --ansi --verbose" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.PHP" />
+    <property name="settings.editor.splitter.proportion" value="0.24079601" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Program Files\xampp\htdocs\wordpress\wp-content\plugins\travis-slider\tests" />
+      <recent name="F:\Program Files\xampp\htdocs\wordpress\wp-content\plugins\travis-slider\includes\lib\cmb2-framework" />
+      <recent name="F:\Program Files\xampp\htdocs\wordpress\wp-content\plugins\travis-slider\includes" />
+      <recent name="F:\Program Files\xampp\htdocs\wordpress\wp-content\plugins\travis-slider\includes\lib" />
+      <recent name="F:\Program Files\xampp\htdocs\wordpress\wp-content\plugins\travis-slider\public\components\owl-carousel" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Program Files\xampp\htdocs\wordpress\wp-content\plugins\travis-slider\admin" />
+      <recent name="F:\Program Files\xampp\htdocs\wordpress\wp-content\plugins\travis-slider\includes" />
+      <recent name="F:\Program Files\xampp\htdocs\wordpress\wp-content\plugins\travis-slider\includes\lib" />
+      <recent name="F:\Program Files\xampp\htdocs\wordpress\wp-content\plugins\travis-slider\includes\lib\cmb2-framework" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52e7e72c-0943-40bb-b7f0-bb486593cacc" name="Default Changelist" comment="" />
+      <created>1577194336864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577194336864</updated>
+      <workItem from="1577194338028" duration="16000" />
+      <workItem from="1577194360166" duration="2897000" />
+      <workItem from="1577278007700" duration="3016000" />
+      <workItem from="1577281392165" duration="411000" />
+      <workItem from="1577282012972" duration="260000" />
+      <workItem from="1577282279377" duration="727000" />
+      <workItem from="1577283061046" duration="29000" />
+      <workItem from="1577283330059" duration="556000" />
+      <workItem from="1577283911646" duration="11328000" />
+      <workItem from="1577369116066" duration="13333000" />
+      <workItem from="1577441748939" duration="11285000" />
+      <workItem from="1577461979818" duration="16492000" />
+      <workItem from="1577510243555" duration="7680000" />
+      <workItem from="1577536136124" duration="5326000" />
+      <workItem from="1577542864462" duration="559000" />
+      <workItem from="1577543640657" duration="1269000" />
+      <workItem from="1577546076971" duration="2267000" />
+      <workItem from="1577601383638" duration="4874000" />
+      <workItem from="1577612357941" duration="4266000" />
+      <workItem from="1577635647915" duration="548000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>F:\Program Files\xampp\htdocs\wordpress</wordpressPath>
+  </component>
+</project>

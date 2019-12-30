@@ -1,0 +1,12 @@
+{
+    "name": "mhmdkhzri/travis-slider",
+    "require": {
+        "php": ">=5.4",
+        "squizlabs/php_codesniffer": "^3.3.1",
+        "phpunit/phpunit": "7",
+        "wp-cli/wp-cli-bundle": "*"
+    },
+    "require-dev": {
+        "wp-coding-standards/wpcs": "2.1.*"
+    }
+}
