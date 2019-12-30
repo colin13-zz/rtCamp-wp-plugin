@@ -1,7 +1,8 @@
 
 # Travis Slider - Wordpress Plugin  🔌
 
-Travis Slider is light plugin with advanced settings and support all devices (Responsive) and RTL websites
+Travis Slider is light slideshow plugin with advanced settings and support all devices (Responsive) and RTL websites.
+The plugin is coded exclusively for test purposes as a rtCamp test task!
 
 ## Features
 
